@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "amg": {
+            "type": "http",
+            "url": "${AMG_MCP_URL}"
+        }
+    }
+}

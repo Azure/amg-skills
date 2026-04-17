@@ -1,0 +1,6 @@
+# Per-user skill config and reports (created at runtime)
+memory/
+
+# Claude Code local settings (user-specific)
+.claude/settings.local.json
+.claude/settings.json

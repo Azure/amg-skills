@@ -1,0 +1,19 @@
+{
+  "name": "amg-toolkit",
+  "description": "Azure Managed Grafana skills \u2014 health checks, cost analysis, and diagnostics via AMG-MCP",
+  "version": "1.0.0",
+  "author": {
+    "name": "AMG Skills"
+  },
+  "license": "MIT",
+  "keywords": [
+    "azure",
+    "grafana",
+    "health-check",
+    "cost-analysis",
+    "diagnostics",
+    "monitoring"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
